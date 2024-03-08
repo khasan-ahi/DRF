@@ -1,2 +1,1 @@
-DRF
-DRF-YASG
+### Настройка:DRF, DRF-YASG
